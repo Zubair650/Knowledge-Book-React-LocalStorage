@@ -1,0 +1,42 @@
+[
+    {
+       "id": "1",
+       "name": "Mr. Zubair",
+       "date": "March 14 (5 days ago)",
+       "read": 5,
+       "title": "How to get your first job as a self-taught programmer",
+       "profile_pic": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+       "quantity": 0,
+       "banner_picture": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80"
+    },
+    {
+       "id": "2",
+       "name": "Mr. Raju",
+       "date": "March 16 (7 days ago)",
+       "read": 9,
+       "title": "Master Microsoft Power Platform and Become an In-Demand!",
+       "profile_pic": "https://images.pexels.com/photos/1559486/pexels-photo-1559486.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+       "quantity": 0,
+       "banner_picture": "https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80"
+    },
+    {
+       "id": "3",
+       "name": "Mrs. Setara",
+       "date": "March 24 (10 days ago)",
+       "read": 6,
+       "title": "Become expert in Data Science and Become a Data Science specialist!",
+       "profile_pic": "https://images.pexels.com/photos/1370750/pexels-photo-1370750.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+       "quantity": 0,
+       "banner_picture": "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+       "id": "4",
+       "name": "Mina Mostofa",
+       "date": "April 14 (15 days ago)",
+       "read": 8,
+       "title": "How to prepare for your first internship and career guidelines",
+       "profile_pic": "https://images.pexels.com/photos/9534578/pexels-photo-9534578.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+       "quantity": 0,
+       "banner_picture": "https://images.unsplash.com/photo-1506878206813-92402b8ded23?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    }
+ ]

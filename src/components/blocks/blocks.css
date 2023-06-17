@@ -1,0 +1,160 @@
+.blocks {
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 30px;
+}
+
+.pro-pic {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 15px 25px 10px 0;
+}
+
+.name {
+    font-size: 18px;
+    font-weight: 500;
+    margin: 0;
+}
+
+.date {
+    margin: 0;
+    font-size: 15px;
+    font-weight: 500;
+    color: grey;
+}
+
+.banner-pic {
+    width: 65%;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.pro-pic-name {
+    display: flex;
+    align-items: center;
+}
+
+.read {
+    margin-left: 340px;
+    color: grey;
+}
+
+.btn-bookmark {
+    border: 0;
+    background-color: white;
+}
+
+.btn-read {
+    border: 0;
+    background-color: white;
+    color: rgb(96, 71, 236);
+    text-decoration-line: underline;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.bookmark {
+    color: grey;
+}
+
+.title {
+    margin-right: 350px;
+    margin-top: 0;
+    font-size: 33px;
+    font-weight: 700;
+    padding: 0;
+}
+
+a {
+    color: rgb(96, 71, 236);
+    font-weight: 600;
+}
+
+.block-hr {
+    margin-right: 360px;
+    margin-top: 30px;
+    border-color: rgba(128, 128, 128, 0.2);
+}
+
+@media screen and (width < 700px) {
+
+    .blocks {
+        margin-left: 0;
+        margin-right: 0;
+        margin-top: 0;
+    }
+
+    .pro-pic {
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin: 15px 15px 10px 10px;
+    }
+
+    .name {
+        font-size: 18px;
+        font-weight: 500;
+        margin: 0;
+    }
+
+    .date {
+        margin: 0;
+        font-size: 15px;
+        font-weight: 500;
+        color: grey;
+    }
+
+    .banner-pic {
+        width: 97%;
+        height: 300px;
+        margin: 5px;
+        border-radius: 10px;
+    }
+
+    .pro-pic-name {
+        display: flex;
+        /* align-items: center; */
+    }
+
+    .read {
+        margin-left: 50px;
+        color: grey;
+    }
+
+    .btn-bookmark {
+        border: 0;
+        background-color: white;
+    }
+
+    .btn-read {
+        border: 0;
+        background-color: white;
+        color: rgb(96, 71, 236);
+        text-decoration-line: underline;
+        font-size: 15px;
+        font-weight: 600;
+    }
+
+    .bookmark {
+        color: grey;
+    }
+
+    .title {
+        margin: 0 0 10px 5px;
+        font-size: 25px;
+        font-weight: 700;
+        padding: 0;
+    }
+
+    a {
+        color: rgb(96, 71, 236);
+        font-weight: 600;
+    }
+
+    .block-hr {
+        margin-right: 0;
+        margin-top: 30px;
+        border-color: rgba(128, 128, 128, 0.2);
+    }
+}

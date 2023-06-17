@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+}
+
+@media screen and (width < 700px)  {
+  .App {
+    display: block;
+  }
+  
+}

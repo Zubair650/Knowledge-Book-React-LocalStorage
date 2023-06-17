@@ -1,0 +1,37 @@
+.header {
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 30px;
+}
+
+.header-book {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: crimson;
+}
+
+.header-book img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+@media screen and (width < 700px) {
+    .header {
+        margin: 5px;
+
+    }
+
+    .header-book {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .header-book img {
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+    }
+}
